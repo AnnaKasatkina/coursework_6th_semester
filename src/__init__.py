@@ -1,0 +1,2 @@
+"""Fraud classification project package."""
+
